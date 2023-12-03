@@ -1,6 +1,5 @@
 From: Isam Sousseing <isamsousseing7@gmail.com>
 Date: Sun, 03 December 2023
-Subject: [PATCH] Create patch file
 
 ---
  client3.py     | 12 ++++++++----
